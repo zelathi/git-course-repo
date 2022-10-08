@@ -9,7 +9,7 @@ test_*
 .qmake.stash
 .vscode
 */stl/stl
-.in
-.out
-.pyc
+*.in
+*.out
+*.pyc
 

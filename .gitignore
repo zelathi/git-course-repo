@@ -1,0 +1,12 @@
+__pycache__
+.venv
+*.o
+core
+*~
+*.core
+test
+test_*
+.qmake.stash
+.vscode
+*/stl/stl
+
